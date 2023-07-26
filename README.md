@@ -5,6 +5,6 @@ Dados utilizados durante o projeto podem ser obtidos em: (https://drive.google.c
 
 Código foi feito utilizando o Google Colab, para a reprodução de todas as etapas, basta apenas realizar o upload dos dados utilizados disponibilizados no link acima
 
-O objetivo do projeto é com base em dados de diversos preços de carros e suas características, criar um modelo preditivo com as principais features necessárias a fim de prever preços de carros de outro banco de dados
+O objetivo do projeto baseia-se em criar um modelo preditivo dos preços de carros a partir de suas características, treiná-lo e aplicá-lo a uma segunda base de dados a fim de predizer seus preço com base nas principais features
 
-As versões das bibliotecas utilizadas estão 
+As versões das bibliotecas utilizadas estão indicadas em requirements
